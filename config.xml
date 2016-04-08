@@ -9,9 +9,9 @@ version = "1.0.0">
 
 <name>Aplicacion de la semana santa</name>
 
-  <desciption>
+  <description>
 	Aplicacion que muestra informacion de la semana santa 
-   </desciption>
+   </description>
  
  <preference name="phonegap-version" value="3.1.0" />
  
